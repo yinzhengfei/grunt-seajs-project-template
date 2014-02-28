@@ -1,4 +1,4 @@
-seajs-project-init
+seajs-project-template
 ==================
 
-前端seajs项目初始化
+seajs项目模板
